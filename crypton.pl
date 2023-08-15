@@ -2,7 +2,7 @@
 
 =cut
 
---- Copyright 2023 - dhritzz ---
+--- Copyright 2023 - dhritzz ---	
 
 This tool is a tool created for information gathering, I will develop this
 tool to make it more stable to use, thanks for those of you who have used this tool,
@@ -32,6 +32,7 @@ sub banner {
 
 sub home {
 	print color("red"),"+-=",color("reset"),"[",color("reset"),"   Author : dhritzz                ",color("reset"),"     ]",color("red"),"=-+\n";
+        print color("red"),"+-=",color("reset"),"[",color("reset"),"   Real Author : Ms.Ambari         ",color("reset"),"     ]",color("red"),"=-+\n";
 	print color("red"),"+-=",color("reset"),"[",color("reset"),"   Date   : 15-08-2023             ",color("reset"),"     ]",color("red"),"=-+\n";
 	print color("red"),"+-=",color("reset"),"[",color("reset"),"   Github : github.com/dhritzz     ",color("reset"),"     ]",color("red"),"=-+\n";
 	print color("red"),"+-=",color("reset"),"[",color("reset"),"   follow me on github             ",color("reset"),"     ]",color("red"),"=-+\n";
